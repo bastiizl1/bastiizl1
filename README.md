@@ -50,7 +50,7 @@
 <h3 align="left">Conecta conmigo:</h3>
     <p>© 2024 Bastian Silva | Contacto: <a href="https://www.upwork.com/freelancers/bastiic?mp_source=share" target="_blank">Contactame en Upwork</a></p>
     <p>Contacto: <a href="https://www.linkedin.com/in/bastian-eduardo-silva-bustos-103848261/" target="_blank">Contactame en Linkedin</a></p>
-    <p>Contacto: <a href="https://www.linkedin.com/in/bastian-eduardo-silva-bustos-103848261/](https://bastiizl1.github.io/Curriculim-vitae/)" target="_blank">Mi curriculum</a></p>
+    <p>Contacto: <a href="(https://bastiizl1.github.io/Curriculim-vitae/)" target="_blank">Mi curriculum</a></p>
 <p align="left">
 </p>
 
